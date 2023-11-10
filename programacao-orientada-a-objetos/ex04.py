@@ -33,3 +33,4 @@ pessoa1 = Pessoa('Bruno', 24, 1.75)
 estudante1 = Estudante('Joao', 18, 1.82, 'Computer Science')
 
 estudante1.exibir_informacoes()
+estudante1.saudacao()
